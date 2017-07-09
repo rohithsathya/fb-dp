@@ -1,0 +1,27 @@
+{
+  "name": "fb-dp",
+  "homepage": "https://github.com/rohithsathya/Web-Components",
+  "description": "displays the facebook profile picture given the fb id",
+  "main": "index.html",
+  "keywords": [
+    "fb",
+    "profile",
+    "picture",
+    "web",
+    "components"
+  ],
+  "authors": [
+    "RSAT"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^1.0.1"
+  }
+}
