@@ -16,7 +16,7 @@ Install the component using [Bower](http://bower.io/):
 $ bower install --save fb-dp
 ```
 
-Or [download as ZIP](https://github.com/the-catalin/cat-text/archive/master.zip)
+Or [download as ZIP](https://github.com/rohithsathya/Web-Components/archive/master.zip)
 
 ## Usage
 
