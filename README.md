@@ -1,6 +1,6 @@
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/the-catalin/cat-text)
 
-# &lt;cfb-dp&gt;
+# &lt;fb-dp&gt;
 
 `<fb-dp>` is a web component  that displays the facebook profile picture of any given facebbok ID.
 
