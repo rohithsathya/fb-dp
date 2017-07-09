@@ -1,12 +1,12 @@
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/the-catalin/cat-text)
 
-# &lt;cat-text&gt;
+# &lt;cfb-dp&gt;
 
 `<fb-dp>` is a web component  that displays the facebook profile picture of any given facebbok ID.
 
 ## Demo
 
-## [LIVE DEMO](https://rohithsathya.github.io/Web-Components/example.html)
+## [LIVE DEMO](https://rohithsathya.github.io/fb-dp/example.html)
 
 ## Install
 
@@ -16,7 +16,7 @@ Install the component using [Bower](http://bower.io/):
 $ bower install --save fb-dp
 ```
 
-Or [download as ZIP](https://github.com/rohithsathya/Web-Components/archive/master.zip)
+Or [download as ZIP](https://github.com/rohithsathya/fb-dp/archive/master.zip)
 
 ## Usage
 
@@ -50,4 +50,4 @@ Or [download as ZIP](https://github.com/rohithsathya/Web-Components/archive/mast
 
 [The MIT License (MIT)](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2017 Catalin Ungureanu
+Copyright (c) 2017 RSAT
